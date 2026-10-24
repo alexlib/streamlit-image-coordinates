@@ -107,3 +107,4 @@ cookiecutter-pypackage-env/
 
 # streamlit
 .streamlit/secrets.toml
+uv.lock
